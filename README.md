@@ -4,9 +4,9 @@ This is a Minecraft practice map for Trial Chambers aimed at Draftout.
 
 ## Features
 
-The map allows for semi-custom Trial Chamber generation by allowing the player to select specific rooms such as the Entrance, Intersection, and End Room, as well as the End Chamber, the Intersection Chamber and even the Entrance Tree. The map allows for the player to choose spawner types for the Melee, Small Melee and Ranged category. Since the names for some of the rooms are generic file names, myself, GracefulBeauty and Danny15_ have made names for them. We have replaced the name of the "Slant
+The map allows for semi-custom Trial Chamber generation by allowing the player to select specific rooms such as the Entrance, Intersection, and End Room, as well as the End Chamber, the Intersection Chamber and even the Entrance Tree. The map allows for the player to choose spawner types for the Melee, Small Melee and Ranged category. Since the names for some of the rooms are generic file names, I, GracefulBeauty and Danny15_ have given names for them. We have replaced the name of the "Slanted" chamber to "Maze" since it more accurately describes what the room looks like.
 
-The player is able to choose a spawnpoint and a fresh Trial Chamber is generated for every run. Similar to Llama's Bastion Practice, the map waits for movement before beginning a timer and switching the player to Survival mode.
+The player is able to choose a spawnpoint or leave it randomized and a fresh Trial Chamber is generated for every run. Similar to Llama's Bastion Practice, the map waits for movement before beginning a timer and switching the player to Survival mode.
 
 The player can turn Mobs in the Trial Chamber ON or OFF, and at the moment can end their runs by either dying with no set spawn within the Trial Chamber, or throwing out their best pickaxe(s). If you only have 1 pickaxe, throwing it out will end the run. If you have 2, throwing the worse one will do nothing. If you have 2 of the same pickaxe, throwing one will do nothing.
 
