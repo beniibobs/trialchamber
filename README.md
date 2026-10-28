@@ -1,8 +1,8 @@
-## Trial Chamber Practice Map (pre-release)
+# Trial Chamber Practice Map (pre-release)
 
 This is a Minecraft practice map for Trial Chambers aimed at Draftout.
 
-# Features
+## Features
 
 The map allows for semi-custom Trial Chamber generation by allowing the player to select specific rooms such as the Entrance, Intersection, and End Room, as well as the End Chamber, the Intersection Chamber and even the Entrance Tree. The map allows for the player to choose spawner types for the Melee, Small Melee and Ranged category. Since the names for some of the rooms are generic file names, myself, GracefulBeauty and Danny15_ have made names for them. We have replaced the name of the "Slant
 
@@ -12,7 +12,7 @@ The player can turn Mobs in the Trial Chamber ON or OFF, and at the moment can e
 
 The player is able to customize and pick between three different Loadouts while in the lobby, being able to save hotbar, inventory, offhand and armour slots. (The layout for this is inspired again by Llama's Bastion Practice, though none of the code has been taken from that map.) One loadout is saved using some typical items and junk you might have on a real digdown. The second loadout just has stone tools. The third is left empty.
 
-# Planned Features for Full Release
+## Planned Features for Full Release
 
 Next planned is a "Digdown" setting will be added, toggling between OFF / Dry / Wet. This will give the "Ends When: Exit" option a function whereby you need to return to your Digdown spot to 
 
@@ -24,7 +24,7 @@ A randomizer is planned for Goals, so that players can test their ability to adj
 
 I am thinking of ways to mimic the in-game Draftout board in a practice map. My two previous maps (Jungle Temple and Igloo) have used the Sidebar, but this is limited to the number of entries. Something like a way to open a Chest menu with the goals in a bingo-like grid would be similar to how "B" opens the Board in Draftout and would allow hovering over the goals to show info about Goal progress. 
 
-# Pre-release
+## Pre-release
 
 This is a pre-release, meaning the map is still in development. Bugs and dysfunctional/unfinished features are expected. 
 
