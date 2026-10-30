@@ -1,10 +1,10 @@
 # Trial Chamber Practice Map (pre-release)
 
-This is a Minecraft practice map for Trial Chambers aimed at Draftout.
+This is a Minecraft practice map for Trial Chambers aimed at Draftout. It is intended for use in Java Edition version 26.3.
 
 ## Features
 
-The map allows for semi-custom Trial Chamber generation by allowing the player to select specific rooms such as the Entrance, Intersection, and End Room, as well as the End Chamber, the Intersection Chamber and even the Entrance Tree. The map allows for the player to choose spawner types for the Melee, Small Melee and Ranged category. Since the names for some of the rooms are generic file names, I, GracefulBeauty and Danny15_ have given names for them. We have replaced the name of the "Slanted" chamber to "Maze" since it more accurately describes what the room looks like.
+The map allows for semi-custom Trial Chamber generation by allowing the player to select specific rooms such as the Entrance, Intersection, and End Room, as well as the End Chamber, the Intersection Chamber and even the Entrance Tree. The map allows for the player to choose spawner types for the Melee, Small Melee and Ranged category. Since the names for some of the rooms are generic file names, GracefulBeauty, Danny15_ and I have given names for them. We have replaced the name of the "Slanted" chamber to "Maze" since it more accurately describes what the room looks like.
 
 The player is able to choose a spawnpoint or leave it randomized and a fresh Trial Chamber is generated for every run. Similar to Llama's Bastion Practice, the map waits for movement before beginning a timer and switching the player to Survival mode.
 
@@ -14,7 +14,7 @@ The player is able to customize and pick between three different Loadouts while 
 
 ## Planned Features for Full Release
 
-Next planned is a "Digdown" setting will be added, toggling between OFF / Dry / Wet. This will give the "Ends When: Exit" option a function whereby you need to return to your Digdown spot to 
+Next planned is a "Digdown" setting will be added, toggling between OFF / Dry / Wet. This will give the "Ends When: Exit" option a function whereby you need to return to your Digdown spot to swim up and exit.
 
 Another User Interface will be added to the lobby to select "Goals" to mimic an actual Draftout game. Toggling certain goals ON or OFF will allow detection of their completion within a run, which will tell you the timestamp and that you completed the goal. There are about 50 canditates for Draftout goals relevant to Trial Chambers, implementation may be slow.
 
