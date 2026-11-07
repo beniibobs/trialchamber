@@ -2,9 +2,9 @@
 
 This is a Minecraft practice map for Trial Chambers aimed at Draftout. It is intended for use in Java Edition version **26.3.**
 
-# Installation
+## Installation
 
-Go to the latest Release and download the .zip file for the world. Extract it to your "saves" path in your Drafout instance (in Prism, click "folder" and make sure your Draftout instance is selected). 
+Go to the [latest Release]([url](https://github.com/beniibobs/trialchamber/releases)) and download the .zip file for the world. Extract it to your "saves" path in your Drafout instance (in Prism, click "folder" and make sure your Draftout instance is selected). 
 
 ## Features
 
